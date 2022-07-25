@@ -1,1 +1,1 @@
-# Deep-Learning-Worksjop
+# Deep-Learning-Workshop
